@@ -1,0 +1,2 @@
+Name three data types.
+String, float e int

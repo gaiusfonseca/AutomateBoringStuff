@@ -1,0 +1,3 @@
+What does the variable bacon contain after the following code runs?
+
+bacon continua contendo o valor 20, pois não se atribuiu a ele um novo valor.

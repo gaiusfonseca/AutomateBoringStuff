@@ -1,0 +1,2 @@
+What is an expression made up of? What do all expressions do?
+Uma expressão é feita de operandos e operadores e ela sempre resume a expressão inteira a um único valor

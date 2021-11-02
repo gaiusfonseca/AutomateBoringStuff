@@ -1,0 +1,4 @@
+What should the following two expressions evaluate to?
+
+'spam' + 'spamspam' -> spamspamspam (concatenação de Strings)
+'spam' * 3          -> spamspamspam (repetição de Strings)

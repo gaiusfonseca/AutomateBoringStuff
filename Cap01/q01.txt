@@ -1,0 +1,8 @@
+Which of the following are operators, and which are values?
+*           -> operador de multiplicação
+'hello'     -> String
+-88.8       -> número float
+-           -> operador de subtração
+/           -> operador de divisão
++           -> operador de adição ou concatenação de Strings
+5           -> número 5

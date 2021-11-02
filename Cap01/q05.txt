@@ -1,0 +1,5 @@
+This chapter introduced assignment statements, like spam = 10 . What is the difference between an expression and a 
+statement?
+
+A um 'statement' não resulta em um valor, ele apenas atribui um valor a uma variável. Uma expressão, por outro lado, 
+pode ser representada como um único valor.

@@ -1,0 +1,3 @@
+Why is eggs a valid variable name while 100 is invalid?
+
+Porque em Python os nomes das variáveis não podem começar com número.

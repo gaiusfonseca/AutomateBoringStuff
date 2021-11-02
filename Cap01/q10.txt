@@ -1,0 +1,10 @@
+Why does this expression cause an error? How can you fix it?
+'I have eaten ' + 99 + ' burritos.'
+
+A expressão causa um erro porque ela tenta concatenar os valores em uma única String, mas ese operador aceita como 
+argumentos apenas Strings, por isso o erro, para que a expressão funcionasse corretamente, seria necessário utilizar a 
+versão String do valor 99, resultando em:
+
+'I have eaten ' + str(99) + ' burritos.'
+
+Isso converteria o valor 99 para uma String, fazendo com que fosse possível concatenar os valores.
