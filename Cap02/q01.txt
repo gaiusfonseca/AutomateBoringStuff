@@ -1,0 +1,4 @@
+What are the two values of the Boolean data type? How do you write them?
+
+Variáveis boolean aceitam apenas dois valores, ou True ou False. Os valores devem ser escritos com iniciais maiúsculas
+do contrário serão interpretados como variáveis.
