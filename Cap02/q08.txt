@@ -1,0 +1,11 @@
+Identify the three blocks in this code:
+
+spam = 0
+if spam == 10:              -> início do 1° bloco
+    print('eggs')
+    if spam > 5:            -> início do 2° bloco
+        print('bacon')
+    else:                   -> fim do 2° bloco / início do 3° bloco
+        print('ham')
+    print('spam')           -> fim do 3° bloco
+print('spam')               -> fim do 1° bloco

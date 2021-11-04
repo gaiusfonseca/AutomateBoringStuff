@@ -1,0 +1,4 @@
+What is the difference between the equal to operator and the assignment operator?
+
+O operador de igualdade (=) atribui o valor da expressão à direta ao valor da variável à esquerda da atribuição. Por 
+outro lado, o operador de igualdade (==) compara o valor de duas expressões e resulta em um valor True ou False.

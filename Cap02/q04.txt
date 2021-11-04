@@ -1,0 +1,20 @@
+What do the following expressions evaluate to?
+
+(5 > 4) and (3 == 5)
+True and False == False
+
+not (5 > 4)
+not True == False
+
+(5 > 4) or (3 == 5)
+True or False == True
+
+not ((5 > 4) or (3 == 5))
+not (True or False)
+not True == False
+
+(True and True) and (True == False)
+True and False == False
+
+(not False) or (not True)
+True or False == True

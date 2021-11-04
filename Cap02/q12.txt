@@ -1,0 +1,15 @@
+What is the difference between range(10) , range(0, 10) , and range(0, 10, 1) in a for loop?
+
+Na prática as três chamadas a função range determinam o mesmo comportamento para um loop for, mas elas tem significado
+diferente conforme explicado abaixo:
+
+range(10) -> a chamada de range com apenas um valor determina o valor até o qual o loop for deve iterar (limite superior
+excluso), nesse caso 9. Como nenhum valor inicial foi especificado para a variável de controle, assume-se que seja 0. 
+Por fim, como nenhum valor foi especificado para o incremento, assume-se que seja 1.
+
+range(0, 10) -> esta chamada de range com dois argumentos especifica o valor inicial da variável de controle do loop for,
+neste caso 0, e o valor até o qual iteração deve continuar (limite superior excluso), portanto, até 9. Como nenhum valor
+de incremento foi especificado, assume-se que seja 1.
+
+range(0, 10, 1) -> esta chamada de range com três argumentos específica o valor inicial da variável de controle, o valor
+até o qual o loop for deve iterar e o valor do incremento que deve ser dado ao fim de cada iteração.

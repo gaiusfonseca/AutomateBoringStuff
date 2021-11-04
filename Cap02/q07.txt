@@ -1,0 +1,4 @@
+Explain what a condition is and where you would use one.
+
+Uma condicional é uma verificação que é realizada para verificar a ocorrência de um caso particular e executar um trecho
+de código somente quando essa condição particular for verdadeira.

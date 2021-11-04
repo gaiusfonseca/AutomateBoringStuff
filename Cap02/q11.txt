@@ -1,0 +1,5 @@
+What is the difference between break and continue ?
+
+a isntrução break e continue só podem ser usados no interior de um loop e elas alteram o fluxo do loop. A instrução 
+break suspende a execução do restante do loop e salta para fora dele assim que for encontrada. Já a instrução continue, 
+ignora o restante do código subsequente no interior do loop e salta para a próxima iteração.

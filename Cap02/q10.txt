@@ -1,0 +1,4 @@
+What can you press if your program is stuck in an infinite loop?
+
+Se ficarmos presos em um loop infinito podemos enviar um comando de interrupção de entrada pressionando CTRL + C, 
+fazendo com que o programa encerre prematuramente.

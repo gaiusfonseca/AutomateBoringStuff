@@ -1,0 +1,18 @@
+Write out the truth tables of each Boolean operator (that is, every possible combination of Boolean values for the 
+operator and what they evaluate to).
+
+a and b 
+True and True == True
+True and False == False
+False and True == False
+False and False == False
+
+a or b
+True or True == True
+True or False == True
+False or True == True
+False or False == False
+
+not a
+not True == False
+not False == True

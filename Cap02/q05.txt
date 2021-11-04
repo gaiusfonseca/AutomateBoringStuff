@@ -1,0 +1,9 @@
+What are the six comparison operators?
+
+Os seis operadores de comparação são:
+> - Maior que
+< - Menor que
+>= - Maior ou igual
+<= - Menor ou igual
+== - Igual
+!= - Diferente
