@@ -1,0 +1,4 @@
+What is the main difference between a dictionary and a list?
+
+A principal diferença entre dicionários e listas é que dicionários são grupos não ordenados de pares chave-valor 
+enquanto que listas são grupos ordenados de dados.

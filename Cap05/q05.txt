@@ -1,0 +1,5 @@
+If a dictionary is stored in spam, what is the difference between the expressions 'cat' in spam and 'cat' in spam.keys()?
+
+Na verdade não há diferença entre as duas declarações pois são equivalentes:
+'cat' in spam
+'cat' in spam.keys()
