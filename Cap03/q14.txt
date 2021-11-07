@@ -1,0 +1,4 @@
+What goes in the try clause? What goes in the except clause?
+
+no bloco try colocamos o trecho de código que eventualmente pode gerar uma exceção, no bloco except colocamos as 
+intruções que tratam o erro.

@@ -1,0 +1,4 @@
+What does the import areallyourpetsnamederic statement do?
+
+importa o módulo areallyourpetsnamederic e torna as funções que estiverem disponíveis nele para serem utilizadas em 
+nosso programa.

@@ -1,0 +1,4 @@
+What is a return value? Can a return value be part of an expression?
+
+Um valor de retorno é o valor retornado por uma função. Esse valor pode ser uma expressão já que uma expressão pode ser
+resumida em um único valor antes de ser retornada.

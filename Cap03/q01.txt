@@ -1,0 +1,4 @@
+Why are functions advantageous to have in your programs?
+
+Porque elas evitam a duplicação de código, o que facilita a depuração e a manutenção já que uma função pode ser definida
+em um único local e utilizada por todo o programa.

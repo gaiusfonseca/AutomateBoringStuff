@@ -1,0 +1,3 @@
+How many global scopes are there in a Python program? How many local scopes?
+
+Há somente um escopo global, porém existem vários escopos locais, tantos quantos forem as funções.

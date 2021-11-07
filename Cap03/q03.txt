@@ -1,0 +1,3 @@
+What statement creates a function?
+
+a palavra reservada 'def' é usada para declarar uma função

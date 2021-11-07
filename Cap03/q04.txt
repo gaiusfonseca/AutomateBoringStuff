@@ -1,0 +1,5 @@
+What is the difference between a function and a function call?
+
+A declaração de uma função especifica o seu nome, os argumentos que ela recebe e o que ela retorna, que pode ser uma
+variável de qualquer tipo, inclusive nada. A chamada a uma função faz com que o código declarado em seu corpo seja 
+executado com os parâmetros dados, se houverem.

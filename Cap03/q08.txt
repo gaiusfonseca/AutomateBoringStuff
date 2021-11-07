@@ -1,0 +1,4 @@
+If a function does not have a return statement, what is the return value of a call to that function?
+
+Quando uma função não possui um valor de retorno definido explícitamente, o python retorna implicitamente o valor 
+'None', equivalemnte a 'null' em outras linguagens de programação.

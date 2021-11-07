@@ -1,0 +1,4 @@
+How can you prevent a program from crashing when it gets an error?
+
+Para evitar que o programa quebre por conta de um erro que esperamos, precisamos encapsular o trecho de código que pode
+gerar o erro dentro de um bloco 'try' e tratar o erro no bloco 'except'

@@ -1,0 +1,4 @@
+How can you force a variable in a function to refer to the global variable?
+
+Para forçar com que uma variável do escopo local referencia uma variável global, é necessário declará-la com a 
+palavra-chave 'global'. ex: global spam
