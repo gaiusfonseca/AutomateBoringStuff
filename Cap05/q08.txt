@@ -1,0 +1,7 @@
+What module and function can be used to “pretty print” dictionary values?
+
+Para fazer uma saída formatada de dicionários é necessário importar o módulo pprint e utilizar a função pprint(dictionary)
+
+exemplo:
+import pprint
+pprint.pprint(dictionary)

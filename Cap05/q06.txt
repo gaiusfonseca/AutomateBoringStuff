@@ -1,0 +1,4 @@
+If a dictionary is stored in spam, what is the difference between the expressions 'cat' in spam and 'cat' in spam.values()?
+
+'cat' in spam -> procura por cat como uma chave
+'cat' in spam.values() -> porcura por cat como o valor correspondente de uma das chaves

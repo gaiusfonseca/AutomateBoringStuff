@@ -1,0 +1,10 @@
+What is a shortcut for the following code?
+
+if 'color' not in spam:
+    spam['color'] = 'black'
+
+O mesmo resultado pode ser obtido utilizando o método setdefault(key, defaultValue), ele define que se caso uma chave 
+não exista, ela será criada com o valor padrão informado. Isso evita de termos que verificar se uma determinada chave 
+existe em um dicionário todas as vezes que quisermos acessar o seu valor.
+
+spam.setdefault('color', 'black')
