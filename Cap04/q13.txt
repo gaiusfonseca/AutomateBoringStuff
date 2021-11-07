@@ -1,0 +1,3 @@
+What is the difference between lists and tuples?
+
+Listas são mutáveis, mas tuplas são imutáveis.

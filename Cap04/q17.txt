@@ -1,0 +1,4 @@
+What is the difference between copy.copy() and copy.deepcopy() ?
+
+copy.copy() é utilizada para obter uma cópia de um valor que normalmente seria passado por referência. cpy.deepcopy() é
+utilizado para obter uma cópia de uma lista bidimensional, isto é, uma lista que contém outra lista.

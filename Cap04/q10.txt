@@ -1,0 +1,4 @@
+What is the difference between the append() and insert() list methods?
+
+append(value) insere um valor no final da lista, enquanto que insert(index, value) insere um valor em uma posição 
+específica da lista.

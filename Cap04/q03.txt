@@ -1,0 +1,12 @@
+For the following three questions, let’s say spam contains the list ['a', 'b', 'c', 'd'].
+
+What does spam[int(int('3' * 2) / 11)] evaluate to?
+
+resolvendo passo a passo:
+0 - spam[int(int('3' * 2) / 11)]
+1 - spam[int(int('33') / 11)]
+2 - spam[int(33 / 11)]
+3 - spam[int(3)]
+4 - spam[3]
+5 - 'd'
+

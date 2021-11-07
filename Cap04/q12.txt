@@ -1,0 +1,4 @@
+Name a few ways that list values are similar to string values.
+
+Listas e Strings possuem métodos em comum: index e len. Ambos aceitam os operadores 'in' e 'not in' e é possível iterar
+pelos seus elementos. Também é possível obter subconjuntos dos seus elementos usando slices.

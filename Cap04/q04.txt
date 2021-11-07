@@ -1,0 +1,4 @@
+For the following three questions, let’s say spam contains the list ['a', 'b', 'c', 'd'].
+What does spam[-1] evaluate to?
+
+'d'

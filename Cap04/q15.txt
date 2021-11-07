@@ -1,0 +1,8 @@
+How can you get the tuple form of a list value? How can you get the list form of a tuple value?
+
+Para obter o valor de uma lista a partir de uma tupla é necessário utilizar a função list:
+list((1, 2, 3, 4))
+
+Para receber uma cópia imutável de uma lista, isto é, uma tupla. É necessário chamar a função tuple() passando a lista
+como argumento:
+tuple([1, 2, 3, 4])

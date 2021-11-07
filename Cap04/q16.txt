@@ -1,0 +1,4 @@
+Variables that “contain” list values don’t actually contain lists directly. What do they contain instead?
+
+Variáveis que contém "listas" na verdade armazenam referências a essas listas, isto é, endereços de memória em que as
+listas estão armazenadas.

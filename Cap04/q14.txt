@@ -1,0 +1,6 @@
+How do you type the tuple value that has just the integer value 42 in it?
+
+Para declarar uma tupla com um único elemento devemos acrescentar uma vírgula no final, para que o interpretador entenda
+que não estamos tentando chamar uma função:
+
+tupleName(42,)

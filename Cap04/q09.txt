@@ -1,0 +1,8 @@
+What are the operators for list concatenation and list replication?
+
+podemos concatenar duas listas usando o operador '+' ou replicar duas listas utilizando o operador '*', vejamos os 
+exemplos abaixo:
+
+['a', 'b', 'c'] + [1, 2, 3] = ['a', 'b', 'c', 1, 2, 3]
+
+['a', 'b', 'c'] * 2 = ['a', 'b', 'c', 'a', 'b', 'c']

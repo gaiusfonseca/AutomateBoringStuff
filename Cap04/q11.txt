@@ -1,0 +1,4 @@
+What are two ways to remove values from a list?
+
+Podemos excluir valores de uma lista usando o método list.remove(value), mas também podemos utilizar a palavra-reservada
+'del' e especificar o índice da lista que queremos remover: del spam[2].
