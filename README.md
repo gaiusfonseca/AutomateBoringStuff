@@ -9,29 +9,32 @@
 - boolean
 
 ## Aritmethic Operators
+<!-- TODO: need to escape characters and put them in a table -->
 Always evaluate to a value.
-- ** exponent
-- * multiplication
+- \*\* exponent
+- \* multiplication
 - / division
 - // intrger division
 - % module
-- + sum
-- - difference
+- \+ sum
+- \- difference
 
 ## String Operators
+<!-- TODO: need to escape characters and put them in a table -->
 Always evaluate to a String.
-- + concatenation
-- * repetition
+- \+ concatenation
+- \* repetition
 > [!IMPORTANT]
 > Can not apply these operators directly to a number, must convert the number to a string first. Python does not implicity converts number to a String.
 
 ## Comparison Operators
+<!-- TODO: need to escape characters and put them in a table -->
 Always evaluate to a boolean.
 - == equals (any data type)
 - != not equals (any data type)
-- /> greater than
+- \> greater than
 - < less than
-- />= greater than or equal to
+- \>= greater than or equal to
 - <= less than or equal to
 
 ## Boolean Operators
@@ -95,7 +98,7 @@ from random import * - can be used to call the functions without the module name
 
 sys.exit() - terminates a program. must be imported before use.
 
-CHAPTER 3 - FUNCTIONS
+# Chapter 3
 
 Functions can be used to avoid code repetition and improve mantainability. It aggregates a logical unit.
 
