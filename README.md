@@ -44,7 +44,7 @@ Always evaluate to a boolean.
 - or: is true if at least one of the values are true
 
 > [!WARNING]
-> == is not the same thing as =. == means equals to, while = means an assignment.
+> == equals to compares two values and let you know if they are equal or not, it always return a boolean value. = an assignment is used to put the value on the left into the variable at right. Do not confuse them.
 
 ## Chapter 2
 
