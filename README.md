@@ -83,6 +83,59 @@ from random import * - can be used to call the functions without the module name
 
 sys.exit() - terminates a program. must be imported before use.
 
+CHAPTER 3 - FUNCTIONS
 
+Functions can be used to avoid code repetition and improve mantainability. It aggregates a logical unit.
 
+declaration
+
+def functionName(arguments):
+    body of the function
+    return expression
+
+call to a function
+
+functionName(arguments)
+
+None == null
+
+in Python every function must evaluate to a value, so when no return statement is used or even an empty return statement, the function returns None.
+
+Named arguments - it is possbile to pass arguments ignoring the order if you user named arguments.
+
+print('Hello', end='!')
+'> Hello!
+
+print('Darksiders', 'Tomb Raider', 'Uncharted', sep='/')
+'> Darksiders/Tomb Raider/Uncharted
+
+Global Scope - it is everything that is not contained in a block of code. Local variables can not be accessed through the global scope.
+Local Scope - it is everything that is contained in a block of code. Global variables can be acessed through a local scope. A Local Scope can not access another Local Scope.
+
+It is a good practice to interact with the global scope only through the arguments and return values of a function.
+You cna force a function to not create a local variable by declaring it with the global keyword.
+
+def spam():
+    global eggs
+    eggs = 'spam'
+
+eggs = 'global'
+spam()
+print(eggs)
+'> spam
+
+- if it is outside of any function, it is global
+- if it is declared in a function local scope with global, then it is global
+- if it is not assigned inside a function, it is global
+- if it is assigned inside a function, it is local
+
+variables inside a function will always be local or global, they can not be both.
+
+Exception Handling
+
+def spam(divideBy):
+    try:
+        return 42 / divideBy
+    except ZeroDivisionError:
+        print('Error: Ivalid argument')
 
