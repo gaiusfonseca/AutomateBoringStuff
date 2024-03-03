@@ -1,6 +1,7 @@
 # AutomateBoringStuff
 Exercícios de programação do livro "Automate the Boring Stuff"
 
+<h1>Primitive Data Types</h1>
 primitive data types: int, float, string, boolean (True and False)
 
 aritmethic operators: always evaluate to a numeric value
