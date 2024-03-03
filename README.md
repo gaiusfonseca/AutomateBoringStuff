@@ -1,14 +1,14 @@
 # Automate Boring Stuff
 
-# Chapter 1
+## Chapter 1
 
-## Primitive Data Types
+### Primitive Data Types
 - int
 - float
 - string
 - boolean
 
-## Aritmethic Operators
+### Aritmethic Operators
 <!-- TODO: need to escape characters and put them in a table -->
 Always evaluate to a value.
 - \*\* exponent
@@ -19,7 +19,7 @@ Always evaluate to a value.
 - \+ sum
 - \- difference
 
-## String Operators
+### String Operators
 <!-- TODO: need to escape characters and put them in a table -->
 Always evaluate to a String.
 - \+ concatenation
@@ -27,7 +27,7 @@ Always evaluate to a String.
 > [!IMPORTANT]
 > Can not apply these operators directly to a number, must convert the number to a string first. Python does not implicity convert number to a String.
 
-## Comparison Operators
+### Comparison Operators
 <!-- TODO: need to escape characters and put them in a table -->
 Always evaluate to a boolean.
 - == equals (any data type)
@@ -37,7 +37,7 @@ Always evaluate to a boolean.
 - \>= greater than or equal to
 - <= less than or equal to
 
-## Boolean Operators
+### Boolean Operators
 Always evaluate to a boolean.
 - not: operates over one boolean value and evaluates to the opposite of this value
 - and: is true only if both values are true
@@ -46,7 +46,7 @@ Always evaluate to a boolean.
 > [!WARNING]
 > == is not the same thing as =. == means equals to, while = means an assignment.
 
-# Chapter 2
+## Chapter 2
 
 Flow control statement = condition + clause
 condition: an expression that evaluates to a boolean value
@@ -96,7 +96,7 @@ from random import * - can be used to call the functions without the module name
 
 sys.exit() - terminates a program. must be imported before use.
 
-# Chapter 3
+## Chapter 3
 
 Functions can be used to avoid code repetition and improve mantainability. It aggregates a logical unit.
 
