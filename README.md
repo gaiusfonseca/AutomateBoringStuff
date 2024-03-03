@@ -14,7 +14,7 @@ Always evaluate to a value.
 - \*\* exponent
 - \* multiplication
 - / division
-- // intrger division
+- // integer division
 - % module
 - \+ sum
 - \- difference
@@ -25,7 +25,7 @@ Always evaluate to a String.
 - \+ concatenation
 - \* repetition
 > [!IMPORTANT]
-> Can not apply these operators directly to a number, must convert the number to a string first. Python does not implicity converts number to a String.
+> Can not apply these operators directly to a number, must convert the number to a string first. Python does not implicity convert number to a String.
 
 ## Comparison Operators
 <!-- TODO: need to escape characters and put them in a table -->
@@ -39,14 +39,12 @@ Always evaluate to a boolean.
 
 ## Boolean Operators
 Always evaluate to a boolean.
-- not: operates over one boolean value and evaluates to the opposite of this value.
+- not: operates over one boolean value and evaluates to the opposite of this value
 - and: is true only if both values are true
 - or: is true if at least one of the values are true
 
 > [!WARNING]
-> == is different of =
-> == equal to
-> = assignment
+> == is not the same thing as =. == means equals to, while = means an assignment.
 
 # Chapter 2
 
