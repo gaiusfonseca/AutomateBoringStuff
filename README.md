@@ -1,40 +1,51 @@
-# AutomateBoringStuff
-Exercícios de programação do livro "Automate the Boring Stuff"
+# Automate Boring Stuff
 
-<h1>Primitive Data Types</h1>
-primitive data types: int, float, string, boolean (True and False)
+# Chapter 1
 
-aritmethic operators: always evaluate to a numeric value
-** exponent
-* multiplication
-/ division
-// intrger division
-% module
-+ sum
-- difference
+## Primitive Data Types
+- int
+- float
+- string
+- boolean
 
-string operators: always evaluate to a string
-+ concatenation
-* repetition
-obs: can not apply these operators directly to a number, must convert the number to a string first
+## Aritmethic Operators
+Always evaluate to a value.
+- ** exponent
+- * multiplication
+- / division
+- // intrger division
+- % module
+- + sum
+- - difference
 
-comparison operators: always evaluate to a boolean value. Used mostly to compare values.
-== equals (any data type)
-!= not equals (any data type)
-> greater than
-< less than
->= greater than or equal to
-<= less than or equal to
+## String Operators
+Always evaluate to a String.
+- + concatenation
+- * repetition
+> [!IMPORTANT]
+> Can not apply these operators directly to a number, must convert the number to a string first. Python does not implicity converts number to a String.
 
-boolean operators: always evaluate to a boolean value
-not - operates over one boolean value and evaluates to the opposite of this value.
-and - is true only if both values are true
-or - is true if at least one of the values are true
+## Comparison Operators
+Always evaluate to a boolean.
+- == equals (any data type)
+- != not equals (any data type)
+- /> greater than
+- < less than
+- />= greater than or equal to
+- <= less than or equal to
 
-Attention:
-== is different of =
-== equa to
-= assignment
+## Boolean Operators
+Always evaluate to a boolean.
+- not: operates over one boolean value and evaluates to the opposite of this value.
+- and: is true only if both values are true
+- or: is true if at least one of the values are true
+
+> [!WARNING]
+> == is different of =
+> == equal to
+> = assignment
+
+# Chapter 2
 
 Flow control statement = condition + clause
 condition: an expression that evaluates to a boolean value
@@ -139,4 +150,3 @@ def spam(divideBy):
         return 42 / divideBy
     except ZeroDivisionError:
         print('Error: Ivalid argument')
-
