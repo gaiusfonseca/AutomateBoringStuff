@@ -9,42 +9,47 @@
 - boolean
 
 ### Aritmethic Operators
-<!-- TODO: need to escape characters and put them in a table -->
+
 Always evaluate to a value.
-- \*\* exponent
-- \* multiplication
-- / division
-- // integer division
-- % module
-- \+ sum
-- \- difference
+| Symbol   | Meaning          |
+| ---      | ---              |
+| \*\*     | exponent         |
+| \*       | multiplication   |
+| /        | division         |
+| //       | integer division |
+| %        | module           |
+| \+       | sum              |
+| \-       | difference       |
 
 ### String Operators
-<!-- TODO: need to escape characters and put them in a table -->
 Always evaluate to a String.
-- \+ concatenation
-- \* repetition
+| Symbol   | Meaning          |
+| ---      | ---              |
+| \+       | concatenate      |
+| \*       | replicate        |
 > [!IMPORTANT]
 > Can not apply these operators directly to a number, must convert the number to a string first. Python does not implicity convert number to a String.
 
 ### Comparison Operators
-<!-- TODO: need to escape characters and put them in a table -->
 Always evaluate to a boolean.
-- == equals (any data type)
-- != not equals (any data type)
-- \> greater than
-- < less than
-- \>= greater than or equal to
-- <= less than or equal to
+| Symbol   | Meaning                  |
+| ---      | ---                      |
+| ==       | equals to                |
+| !=       | not equals to            |
+| \>       | greater than             |
+| <        | less than                |
+| \>=      | graeter than or equal to |
+| <=       | less than or equal to    |
+> [!WARNING]
+> == equals to compares two values and let you know if they are equal or not, it always return a boolean value. = an assignment is used to put the value on the left into the variable at right. Do not confuse them.
 
 ### Boolean Operators
 Always evaluate to a boolean.
-- not: operates over one boolean value and evaluates to the opposite of this value
-- and: is true only if both values are true
-- or: is true if at least one of the values are true
-
-> [!WARNING]
-> == equals to compares two values and let you know if they are equal or not, it always return a boolean value. = an assignment is used to put the value on the left into the variable at right. Do not confuse them.
+| Symbol   | Meaning                      |
+| ---      | ---                          |
+| not      | evaluates to the opposite    |
+| and      | True only if both are true   |
+| or       | False only if both are false |
 
 ## Chapter 2
 
