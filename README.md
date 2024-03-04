@@ -66,58 +66,61 @@ A Flow Control statement represent a behavior usually controlled by a condition 
 if - may be used to decide which clause will be executed according to a condition or a series of conditions. The else and elif block is optional. elif blocks may be used to check for more than one case.
 
 minimun if:
-```
-if condition:
-    clause
+```python
+if name == 'Alice':
+    print('this clause says: Hi Alice!')
 ```
 
 checking for something or else (at least one clause will be executed)
-```
-if conditionA:
-    clauseA
+```python
+if name == 'Alice':
+    print('this clause says: Hi Alice!')
 else:
-    clauseElse
+    print('this clause says: you are not Alice')
 ```
 
 checking for more than one case (one or none case is executed)
-```
-if conditionA:
-    clauseA
-elif conditionB:
-    clauseB
-elif conditionC:
-    clauseC
+```python
+if age < 20:
+    print('this clause says: you are under 20!')
+elif age < 40:
+    print('this clause says: you are under 40!')
+elif age < 60:
+    print('this clause says: you are under 60!')
 ```
 > [!TIP]
 > When checking for multiple conditions it is very important to consider the order in whcih the checks will be done.
 
 checking for more than one case or else (at least one clause will be executed)
-```
-if conditionA:
-    clauseA
-elif conditionB:
-    clauseB
-elif conditionC:
-    clauseC
+```python
+if age < 20:
+    print('this clause says: you are under 20!')
+elif age < 40:
+    print('this clause says: you are under 40!')
+elif age < 60:
+    print('this clause says: you are under 60!')
 else:
-    clauseElse
+    print('this clause says: you are over 59!')
 ```
 
 ### While Statement
 While, also known as loop, repeats the clause while the condition is true.
 
 traditional while loop
-```
-while condition:
-    clause
+```python
+while age < 20:                     //this is the condition
+    //this block is a clause
+    print('another year passes')
+    age = age + 1
+
 ```
 
 infinite loop
-```
+```python
 while True:
-    clause
+    print('this happens over and onver, forever!')
 ```
-> [!IMPROTANT]
+> [!IMPORTANT]
 > Whenever you use a loop check for the possibility of an infinite loop, usualy it is not desirable. In case you want to use an infinite loop, make sure you check for a condition inside the clause and insert a break instruction.
 
 ### Break Statement
