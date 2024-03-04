@@ -9,7 +9,6 @@
 - boolean
 
 ### Aritmethic Operators
-
 Always evaluate to a value.
 | Symbol   | Meaning          |
 | ---      | ---              |
@@ -54,7 +53,6 @@ Always evaluate to a boolean.
 ## Chapter 2
 
 ### Flow Control Statements
-
 A Flow Control statement represent a behavior usually controlled by a condition and followed by a clause. A Condition is an expression that evaluates to a boolean value. The Clause is a block of code that executes, according to the behavior provided by the statement used.
 
 ### Common Statements
@@ -122,7 +120,7 @@ while True:
 > [!IMPROTANT]
 > Whenever you use a loop check for the possibility of an infinite loop, usualy it is not desirable. In case you want to use an infinite loop, make sure you check for a condition inside the clause and insert a break instruction.
 
-### break
+### Break Statement
 The Break statement jumps out of the block. Usually used to jump out of a loop.
 
 Can use a break statement to jump out of an infinite loop checking for a condition
@@ -142,13 +140,10 @@ for x in range(100):
         break
 ```
 
-
 ### continue
-
 continue - jumps back to the start of the loop. skips the following code.
 
 ### for
-
 for - while a specific number of times was not reached (condition), keeps executing the clause.
 
 for x in range(y):
