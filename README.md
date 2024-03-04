@@ -156,22 +156,34 @@ while True:
     print('hello ' + name + '!')        #this part is not executed when name == 'Alice' because continue jumps to the next interaction
 ```
 
-### for
-for - while a specific number of times was not reached (condition), keeps executing the clause.
+### For Statement
+The For statemnet is used when we want to execute a block of code (clause) a specific number of times. This statement consists of four parts:
+1 - the start index
+2 - the stop index
+3 - the step index
+4 - the clause
 
-for x in range(y):
-    clasue
+For statements are often used in conjunction whith the range function to specify the stop point, the increment after each interaction and the initial value.
+```python
+for x in range(5):          #x is the current element, 5 means it will loop from 0 to 4 (5 elements)
+    print('do something')   #this is the clause
+```
 
+The range function has two optional parameters (start, step).
+```python
+# when used this way, start and step are set to a default value
+# default values: start = 0, step = 1
+range(stop)
+
+# when used this way, step is set to a default value
+# default value: step = 1
+range(start, stop)
+
+# when used this way, all values are given by the user
 range(start, stop, step)
-start - indicates with which value the count will start
-stop - indicates to which value the count will stop. The clause will not be executed when the stopping value is reached
-stepstep - indicates how much the value will be increased at each interaction
+```
 
-range(start, stop) - step = 1.
-
-range(stop) - start = 0, step = 1.
-
-### importing modules
+### Importing Modules
 
 import moduleName[, anotherModules]
 form moduleName import functionName
@@ -183,6 +195,8 @@ for i in range(5):
 from random import * - can be used to call the functions without the module name, but should be avoided
 
 sys.exit() - terminates a program. must be imported before use.
+
+### Builtin Functions
 
 ## Chapter 3
 
