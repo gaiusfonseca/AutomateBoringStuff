@@ -48,28 +48,73 @@ Always evaluate to a boolean.
 
 ## Chapter 2
 
-Flow control statement = condition + clause
-condition: an expression that evaluates to a boolean value
-clause: a block of code that executes, according the statement used, if the condition is true
+### Flow Control Statements
 
-statements:
-if - executes a clause if it's true or another clause if it's false
+A Flow Control statement represent a behavior usually controlled by a condition and followed by a clause. A Condition is an expression that evaluates to a boolean value. The Clause is a block of code that executes, according to the behavior provided by the statement used.
 
-if age > 18:
-    print('you are responsible for yourself')
-elif < 18:
-    print('your parents are responsible for you')
+### Common Statements
+- if
+- while
+- for
+- break
+- continue
+
+### If Statement
+if - may be used to decided which clause will be executed according to a condition a series of conditions. The else and elif block is optional. elif blocks may be used to check for more than one case.
+
+minimun if:
+```
+if condition:
+    clause
+```
+
+checking for something or else (at least one clause will be executed)
+```
+if conditionA:
+    clauseA
 else:
-    print('you are responsible for yourself from now on')
+    clauseElse
+```
 
+checking for more than one case (one or none case is executed)
+```
+if conditionA:
+    clauseA
+elif conditionB:
+    clauseB
+elif conditionC:
+    clauseC
+```
+> [!TIP]
+> When checking for multiple conditions it is very important to consider the order in whcih the checks will be done.
+
+checking for more than one case or else (at least one clause will be executed)
+```
+if conditionA:
+    clauseA
+elif conditionB:
+    clauseB
+elif conditionC:
+    clauseC
+else:
+    clauseElse
+```
+
+### while
 while - repeats the clause while the condition is true
 
 while (condition):
     clasue
 
+### break
+
 break - jumps out of the block. Usually used to jump out of a loop.
 
+### continue
+
 continue - jumps back to the start of the loop. skips the following code.
+
+### for
 
 for - while a specific number of times was not reached (condition), keeps executing the clause.
 
@@ -84,6 +129,8 @@ stepstep - indicates how much the value will be increased at each interaction
 range(start, stop) - step = 1.
 
 range(stop) - start = 0, step = 1.
+
+### importing modules
 
 import moduleName[, anotherModules]
 form moduleName import functionName
