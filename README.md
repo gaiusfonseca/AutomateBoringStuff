@@ -60,7 +60,7 @@ A Flow Control statement represent a behavior usually controlled by a condition 
 - continue
 
 ### If Statement
-if - may be used to decided which clause will be executed according to a condition a series of conditions. The else and elif block is optional. elif blocks may be used to check for more than one case.
+if - may be used to decide which clause will be executed according to a condition or a series of conditions. The else and elif block is optional. elif blocks may be used to check for more than one case.
 
 minimun if:
 ```
@@ -100,11 +100,22 @@ else:
     clauseElse
 ```
 
-### while
-while - repeats the clause while the condition is true
+### While Statement
+While, also known as loop, repeats the clause while the condition is true.
 
-while (condition):
-    clasue
+traditional while loop
+```
+while condition:
+    clause
+```
+
+infinite loop
+```
+while True:
+    clause
+```
+> [!IMPROTANT]
+> Whenever you use a loop check for the possibility of an infinite loop, usualy it is not desirable. In case you want to use an infinite loop, make sure you check for a condition inside the clause and insert a break instruction.
 
 ### break
 
