@@ -123,8 +123,25 @@ while True:
 > Whenever you use a loop check for the possibility of an infinite loop, usualy it is not desirable. In case you want to use an infinite loop, make sure you check for a condition inside the clause and insert a break instruction.
 
 ### break
+The Break statement jumps out of the block. Usually used to jump out of a loop.
 
-break - jumps out of the block. Usually used to jump out of a loop.
+Can use a break statement to jump out of an infinite loop checking for a condition
+```python
+while True:
+    print('this could be the clause')
+    if condition:
+        print('do something then...')
+        break
+```
+
+Can also be used to jump subsequent interactions in a for loop
+```python
+for x in range(100):
+    if x == 10:
+        print('when it reaches 10, skips all the following interactions')
+        break
+```
+
 
 ### continue
 
