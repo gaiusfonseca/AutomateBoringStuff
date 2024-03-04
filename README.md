@@ -108,11 +108,9 @@ While, also known as loop, repeats the clause while the condition is true.
 
 traditional while loop
 ```python
-while age < 20:                     //this is the condition
-    //this block is a clause
-    print('another year passes')
+while age < 20:                     #this is the condition
+    print('another year passes')    #this block is a clause
     age = age + 1
-
 ```
 
 infinite loop
