@@ -89,7 +89,7 @@ elif age < 60:
     print('this clause says: you are under 60!')
 ```
 > [!TIP]
-> When checking for multiple conditions it is very important to consider the order in whcih the checks will be done.
+> When checking for multiple conditions it is very important to consider the order in which the checks will be done.
 
 checking for more than one case or else (at least one clause will be executed)
 ```python
@@ -141,8 +141,20 @@ for x in range(100):
         break
 ```
 
-### continue
-continue - jumps back to the start of the loop. skips the following code.
+### Continue Statement
+The Continue statement jumps back to the start of the loop (next iteration) and skips the following code.
+
+Can use a continue statement to skip a portion of code when a certain condition is reached
+```python
+
+while True:
+    print('what is your name?')
+    name = input()
+    if name = 'Alice':
+        print('Alice is not welcome')
+        continue
+    print('hello ' + name + '!')        #this part is not executed when name == 'Alice' because continue jumps to the next interaction
+```
 
 ### for
 for - while a specific number of times was not reached (condition), keeps executing the clause.
