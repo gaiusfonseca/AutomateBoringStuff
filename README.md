@@ -169,6 +169,34 @@ for x in range(5):          #x is the current element, 5 means it will loop from
     print('do something')   #this is the clause
 ```
 
+### Importing Modules
+
+```python
+# importing a single module
+import random
+
+# using an imported module
+random.randint(1, 10)       # uses randint from random to generate a random number between 1 and 10
+```
+
+```python
+# importing multiple modules
+import random, sys, os, math
+```
+
+```python
+# this allows to use the function without the module name, similar to import static from java
+from random import *
+
+# using the import
+randint(1, 10)
+```
+> [!WARNING]
+> importing with a from statement allows you to ommit the modulename prefix, but it is not considered a goof practive and should be avoided. Using the prefix improve the code readability.
+
+### Builtin Functions
+sys.exit() - terminates a program. must be imported before use.
+range()
 The range function has two optional parameters (start, step).
 ```python
 # when used this way, start and step are set to a default value
@@ -183,20 +211,12 @@ range(start, stop)
 range(start, stop, step)
 ```
 
-### Importing Modules
-
-import moduleName[, anotherModules]
-form moduleName import functionName
-
-import random
-for i in range(5):
-    print(random.randint(1, 10))
-
-from random import * - can be used to call the functions without the module name, but should be avoided
-
-sys.exit() - terminates a program. must be imported before use.
-
-### Builtin Functions
+input()
+len(someString)
+str(value)
+int(string)
+float(string)
+print()
 
 ## Chapter 3
 
