@@ -192,7 +192,7 @@ from random import *
 randint(1, 10)
 ```
 > [!WARNING]
-> importing with a from statement allows you to ommit the modulename prefix, but it is not considered a goof practive and should be avoided. Using the prefix improve the code readability.
+> importing with a from statement allows you to ommit the modulename prefix, but it is not considered a good practive and should be avoided. Using the prefix improve the code readability.
 
 ### Builtin Functions
 sys.exit() - terminates a program. must be imported before use.
@@ -273,3 +273,155 @@ def spam(divideBy):
         return 42 / divideBy
     except ZeroDivisionError:
         print('Error: Ivalid argument')
+
+
+## Chapter 4
+
+### List Data Type
+A list is a value that contains multiple values in an ordered sequence. A list begins with an opening square bracket and finishes with a closing square bracket. It contains items and they are separated by a comma.
+
+```python
+# literal list
+['item1', 'item2', 'item3',]
+
+# empty list
+[]
+
+# lists can contain different data types items
+[1, 2.54, 'hello']
+
+# storing a list into a variable
+myFavoriteThings = ['to study', 'to program', 'to improve', 'play games']
+
+# accessing items through the index. indexes must be integer values
+myFavoriteThings[0]     # evaluates to 'to study'
+myFavoriteThings[1]     # evaluates to 'to program'
+myFavoriteThings[2]     # evaluates to 'to improve'
+myFavoriteThings[3]     # evaluates to 'play games'
+
+# this line throwns an IndexError because you tried to access an index that does not exist
+myFavoriteThings[4]
+
+# can use negative indexes to access items in reverse order
+myFavoriteThings[-1]     # evaluates to 'play games'
+myFavoriteThings[-2]     # evaluates to 'to improve'
+
+
+```
+
+Lists can contain other lists.
+```python
+biDimensional = [['first', 'second', 'third'], [1, 2, 3]]
+
+# accessing the first list
+biDimensional[0]        # ['first', 'second', 'third']
+
+# acessing the second list
+biDimensional[0]        # [1, 2, 3]
+
+# accessing items in the first list
+biDimensional[0][0]     # ['first']
+biDimensional[0][1]     # ['second']
+biDimensional[0][2]     # ['third']
+
+# accessing items in the second list
+biDimensional[1][0]     # [1]
+biDimensional[1][1]     # [2]
+biDimensional[1][2]     # [3]
+```
+
+A **Slice** can get a sequence o items in a list in the form a new list. It is represented by a pair of square brackets within two indexes (the start and the end) inside, separated by a colon.
+```python
+items = ['item1', 'item2', 'item3', 'item4', 'item5']
+
+# can get a part of the list with a slice
+favorites = items[1:3]  # contain items from index 1 to index 2.
+
+# slices can ommit the beginning
+favorites = items[:3]   # contain items from index 0 to index 2.
+
+# slices can ommit the end
+favorites = items[1:]   # contain items from index 1 to the final index.
+```
+
+you can use the function len() to count the number of elements in a list
+```python
+items = ['item1', 'item2', 'item3', 'item4', 'item5']
+len(items)              # 5
+```
+
+it is possible to concatenate lists and replicate them
+```python
+itemsA = ['element1', 'element2']
+itemsB = ['something', 'anything']
+
+# concatenate
+itemsA + itemsB         # ['element1', 'element2', 'something', 'anything']
+
+# replicate
+itemsA * 3              # ['element1', 'element2', 'element1', 'element2', 'element1', 'element2']
+```
+
+Also, it is possible to remove elements with a **del** statement
+```python
+items = ['item1', 'item2', 'item3', 'item4', 'item5']
+
+# removing the item at index 2
+del items[2]            # ['item1', 'item2', 'item4', 'item5']
+```
+
+### Working with lists
+
+you can add elements to a list concatenating lists:
+```python
+names = []
+
+while True:
+    print('type stop to stop, or type a name')
+    name = input()
+    if name == 'stop':
+        break
+    else:
+        names = names + name    # adds an item
+
+# accessing the items in the list sequentially
+for name in names:
+    print('hi ' + name)
+
+# looping through the indexes and elements of a list
+for i in range(len(names)):
+    print('index is ' + str(i) ', item is ' + names[i])
+```
+
+Use the **in** and **not in** operators to check whether a list contains or not a certain item. These operators always evaluate to a boolean value.
+```python
+games = ['Megaman', 'Street Fighter', 'Resident Evil']
+
+'Megaman' in games              # True
+'Street Fighter' not in games   # False
+
+'Blasphemous' in games          # False
+'Banjo Kazooie' not in games    # True
+```
+
+### Multiple Assignment
+
+It is possible to assign multiple variables from items in a list if the number of list items and the number of variables are the same.
+```python
+myData = ['Gaius', 34, 1.74]
+name, age, height = myData
+```
+
+### Augmented Assignment Operators
+
+Augmented assignment operators as a shortcut in expressions that uses variable which operates in itself.
+
+| Expression 1 | Expression 2    |
+|--------------|-----------------|
+| spam += 1    | spam = spam + 1 |
+| spam -= 1    | spam = spam - 1 |
+| spam *= 1    | spam = spam * 1 |
+| spam /= 1    | spam = spam / 1 |
+| spam %= 1    | spam = spam % 1 |
+
+
