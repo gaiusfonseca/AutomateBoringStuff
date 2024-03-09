@@ -1,0 +1,10 @@
+7. What do the following expressions evaluate to?
+- 'Hello'.upper()
+- 'Hello'.upper().isupper()
+- 'Hello'.upper().lower()
+
+Essas expressões correspondem aos seguintes resultados:
+'HELLO'
+True
+'hello'
+
