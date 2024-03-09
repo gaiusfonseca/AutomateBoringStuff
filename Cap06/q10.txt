@@ -1,0 +1,6 @@
+10. How can you trim whitespace characters from the beginning of end of a string?
+
+Você pode remover os espaços em branco através do método strip e suas variações
+'   Hello   '.lstrip() -> remove os espaços em branco do começo da string -> 'Hello   '
+'   Hello   '.rstrip() -> remove os espaços em branco do final da string -> '   Hello'
+'   Hello   '.strip() -> remove os espaços em branco do começo e do final da string -> 'Hello'
