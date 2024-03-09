@@ -1,0 +1,5 @@
+4. The string value "Howl's Moving Castle" is a valid string. Why isn't it a problem that the single quote
+character in the word Howl's isn't escaped?
+
+Essa string é uma string válida memsmo sem fazer o escape do caractere de aspas simples porque ela foi 
+escrita entre aspas duplas. As aspas duplas escapam automaticamente os caracteres de aspas simples.
