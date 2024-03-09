@@ -1,0 +1,9 @@
+9. What string methods can you use to right-justify, left-judtify, and center a string?
+
+podemos os seguintes métodos:
+'hello'.rjust(20)
+'hello'.ljust(20)
+'hello'.center(20)
+
+as funções recebem até dois argumentos, o primeiro é um inteiro que determina o tamanho da string. O segundo
+representa o caractere que irá preencher as partes vazias da string.
