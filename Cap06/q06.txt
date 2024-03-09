@@ -1,0 +1,11 @@
+6. What do the following expressions evaluate to?
+- 'Hello world!'[1]
+- 'Hello world!'[0:5]
+- 'Hello world!'[:5]
+- 'Hello world!'[3:]
+
+as expressões são avaliadas para os seguintes resultados:
+'e'
+'Hello'
+'Hello'
+'lo world!'
