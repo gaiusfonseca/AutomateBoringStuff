@@ -1,0 +1,7 @@
+8. What do the following expressions evaluate to?
+- 'Remember, remember, the fifth of November.'.split()
+- '-'.join('There can be only one.'.split())
+
+As expressões são resultam respectivamente em:
+['Remember,', 'remember,', 'the', 'fifth', 'of', 'November.']
+There-can-be-only-one.
