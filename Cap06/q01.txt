@@ -1,0 +1,6 @@
+1. What are escape characters?
+
+Caracteres de escape são compostos de uma barra invertida (\) seguida de um caractere que normalmente possui
+um significado especial, escapar um caractere normalmente é utilizado para escrever uma string.
+
+ex: 'Robert\'s things are under the table'
