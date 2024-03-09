@@ -1,0 +1,5 @@
+3. How can you put a \ backslash character in a string?
+
+Você pode colocar um caractere de barra invertida de duas maneiras:
+- escapando o caractere com barra invertida \\
+- ou, utilizando uma raw string r'this is a raw string \'
