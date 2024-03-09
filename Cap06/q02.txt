@@ -1,0 +1,3 @@
+2. What do the \n and \t escape characters represent?
+
+Esses caracteres representam respectivamente o caractere de nova linha e o tab.
