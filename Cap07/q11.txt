@@ -1,0 +1,4 @@
+11. What is the difference between {3} and {3,5} in regular expressions?
+
+Um padrão seguido de {3} significa que este padrão deve ocorrer exatamente três vezes.
+Um padrão seguido de {3,5} significa que este padrão deve ocorrer de três a cinco vezes.
