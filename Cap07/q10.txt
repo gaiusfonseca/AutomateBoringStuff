@@ -1,0 +1,4 @@
+10. What is the difference between the + and * characters in regular expressions?
+
+o sinal de + indica que o padrão que o precede precisa ocorrer necessariamente, pelo menos uma vez. 
+Já o * indica que o padrão pode ocorrer 0 ou n vezes.
