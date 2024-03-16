@@ -1,0 +1,4 @@
+17. What is the character class syntax to match all numbers and lowercase letters?
+
+essa classe de caracteres pode ser representada com uma classe personalizada como a abaixo:
+[a-z0-9]
