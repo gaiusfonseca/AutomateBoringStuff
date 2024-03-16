@@ -1,0 +1,4 @@
+15. What does the . character normally match? What does it match if re.DOTALL is passed as the second argument to re.compile()?
+
+O caractere '.' em uma expressão regular normalmente representa qualquer carctere ou nenhum, exceto o caractere de nova linha.
+Se a expressão for compilada com re.DOTALL, então o '.' passa a dar match também com o caractere de nova linha.
