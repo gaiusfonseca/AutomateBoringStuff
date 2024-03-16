@@ -1,0 +1,7 @@
+18. If numRegex = re.compile(r'\d+'), what will numRegex.sub('X', '12 drummers, 11 pipers, five rings, 3 hens') return?
+
+A expressão utilizada para compilar a regex representa um um dígito, que pode se repetir. O método sub substitui o 
+padrão encontrado pelo caractere 'X'.
+
+portanto, a expressão retorna:
+'X drummers', 'X pipers', 'five rings', 'X hens'
