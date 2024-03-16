@@ -1,0 +1,6 @@
+7. The findall() method returns a list of strings or a list of tuples of strings. 
+What makes it return one or the other?
+
+se o padrão da regex utilizar grupos (parênteses), então findall retornará uma 
+lista de tuplas, onde cada elemento da tupla corresponde a um grupo. Caso a 
+regex não contenha nenhum grupamento, ela retornará uma lista de strings.
