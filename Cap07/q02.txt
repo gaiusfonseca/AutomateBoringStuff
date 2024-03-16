@@ -1,0 +1,3 @@
+2. Why are raw strings often used when creating Regex objects?
+
+frequentemente utilizamos raw strings para criar objetos regex porque utilizamos muitos caracteres que possuem significado especial e precisariam ser escapados.
