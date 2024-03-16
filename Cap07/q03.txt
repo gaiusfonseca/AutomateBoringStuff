@@ -1,0 +1,3 @@
+3. What does seach method returns?
+
+o método search retorna a primeira ocorrência do padrão especificado pela regex na forma de um match object.
