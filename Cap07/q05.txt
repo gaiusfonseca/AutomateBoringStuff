@@ -1,0 +1,6 @@
+5. In the regex created from r'(\d\d\d)-(\d\d\d-\d\d\d\d)', what does group 0 cover? Group 1? Group 2?
+
+tomando como exemplo a string '999-9999', as chamadas retornariam os seguintes valores:
+group(0) -> '999-9999' -> corresponde ao padrão completo
+group(1) -> '999' -> corresponde ao primeiro conjunto de parênteses, neste caso seriam os três primeiros dígitos
+group(2) -> '9999' -> corresponde ao segundo conjunto de parênteses, neste caso seriam os quatro últimos dígitos
