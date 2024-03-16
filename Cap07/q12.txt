@@ -1,0 +1,6 @@
+12. What do the \d, \w, and \s shorthand character classes signify in regular expressions?
+
+Esses caracteres são abreviações para classes de caracteres, conforme detalhado abaixo:
+\d -> um dígito de 0 a 9
+\w -> um caractere alfanumérico ou underscore
+\s -> um caractere de espaço em branco, podendo ser espaço, tab ou de nova linha
