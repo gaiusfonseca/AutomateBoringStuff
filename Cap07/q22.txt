@@ -1,0 +1,42 @@
+22. How would you write a regex that matches a sentence where the first
+word is either Alice, Bob, or Carol; the second word is either eats, pets, or
+throws; the third word is apples, cats, or baseballs; and the sentence ends
+with a period? This regex should be case-insensitive. It must match the
+following:
+• 'Alice eats apples.'
+• 'Bob pets cats.'
+• 'Carol throws baseballs.'
+• 'Alice throws Apples.'
+• 'BOB EATS CATS.'
+but not the following:
+• 'RoboCop eats apples.'
+• 'ALICE THROWS FOOTBALLS.'
+• 'Carol eats 7 cats.'
+
+Uma expressão que atende aos requisitos solicitados foi utilizada no programa de demonstração abaixo:
+
+import re
+
+sample = ['Alice eats apples.', 'Bob pets cats.', 'Carol throws baseballs.', 
+          'Alice throws Apples.', 'BOB EATS CATS.', 'RoboCop eats apples.', 
+          'ALICE THROWS FOOTBALLS.', 'Carol eats 7 cats.']
+
+phrasePattern = r'''
+(Alice|Bob|Carol)
+\s
+(eats|pets|throws)
+\s
+(apples|cats|baseballs)
+\.
+'''
+phraseRegex = re.compile(phrasePattern, re.VERBOSE|re.IGNORECASE)
+
+foundMessage = 'match found! {match}'
+notFoundMessage = "didn't found a match in: {sampleText}"
+
+for value in sample:
+    match = phraseRegex.match(value)
+    if match != None:
+        print(foundMessage.format(match = match.group()))
+    else:
+        print(notFoundMessage.format(sampleText = value))
