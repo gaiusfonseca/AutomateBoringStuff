@@ -1,0 +1,8 @@
+13. What do the \D, \W, and \S shorthand character classes signify in regular expressions?
+
+Esses escapes também representam classes de caracteres, que na verdade, negam o significado 
+das classes com letras minúsculas.
+\D -> qualquer caractere que não seja um dígito de 0 a 9.
+\W -> qualquer caractere que não seja alfanumérico ou underscore.
+\S -> qualquer caractere que não seja um espaço em branco.
+
