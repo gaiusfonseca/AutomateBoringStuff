@@ -1,0 +1,26 @@
+20. How would you write a regex that matches a number with commas for every three digits? It must match the following:
+• '42'
+• '1,234'
+• '6,368,745'
+but not the following:
+• '12,34,567' (which has only two digits between the commas)
+• '1234' (which lacks commas)
+
+é possível escrever um padrão que representa adequadamente as sequências desejadas da seguinte forma:
+
+import re
+
+sample = ['42', '1,234', '6,368,745', '12,34,567', '1234']
+
+numberPattern = r'\d{1,3}(,\d{3})+|\d{1,3}$'
+numberRegex = re.compile(numberPattern)
+
+foundMessage = 'match found! {match}'
+notFoundMessage = "didn't found a match in: {sampleText}"
+
+for value in sample:
+    match = numberRegex.match(value)
+    if match != None:
+        print(foundMessage.format(match = match.group()))
+    else:
+        print(notFoundMessage.format(sampleText = value))
