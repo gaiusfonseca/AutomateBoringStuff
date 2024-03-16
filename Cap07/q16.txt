@@ -1,0 +1,7 @@
+16. What is the difference between .* and .*? ?
+
+A expressão regular .* fornece um match para qualquer caractere ou nenhum, repetido uma ou mais vezes, 
+utilizando um algoritmo Guloso. Isto é, ele irá identificar a maior string possível
+
+A expressão regular .*? fornece um match para qualquer caractere ou nenhum, repetido uma ou mais vezes, 
+utilizando um algoritmo não guloso, ou seja, ele retornará a menor string que corresponde ao padrão.
