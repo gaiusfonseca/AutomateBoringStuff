@@ -1,0 +1,4 @@
+1. What is the function that creates regex objects?
+
+regexes podem ser criadas com a função compile do módulo re.
+re.compile(strPattern)
