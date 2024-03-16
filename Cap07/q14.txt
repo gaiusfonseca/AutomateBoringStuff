@@ -1,0 +1,4 @@
+14. How do you make a regular expression case-insensitive?
+
+Basta utilizar a flag re.IGNORECASE quando compilar a expressão regular.
+ex: re.compile(pattern, re.IGNORECASE)
