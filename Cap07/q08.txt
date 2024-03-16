@@ -1,0 +1,3 @@
+8. What does the | character signify in regular expressions?
+
+o caractere pipe é utilizado em uma expressão regular para especificar padrões alternativos, similar a um OU lógico.
