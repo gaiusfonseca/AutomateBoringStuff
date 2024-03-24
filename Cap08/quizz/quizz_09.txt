@@ -1,0 +1,162 @@
+teste tipo 8
+nome do estudante: 
+data: 
+série: 
+
+
+1. Qual a capital do RO?
+	A. Manaus
+	B. Porto Velho
+	C. Belém
+	D. Rio de Janeiro
+
+2. Qual a capital do PE?
+	A. Teresina
+	B. Floarianópolis
+	C. Cuiabá
+	D. Recife
+
+3. Qual a capital do SP?
+	A. Porto Alegre
+	B. São Paulo
+	C. Boa Vista
+	D. Macapá
+
+4. Qual a capital do AM?
+	A. Manaus
+	B. Cuiabá
+	C. Belo Horizonte
+	D. Rio de Janeiro
+
+5. Qual a capital do AC?
+	A. Fortaleza
+	B. Aracaju
+	C. João Pessoa
+	D. Rio Branco
+
+6. Qual a capital do RJ?
+	A. Boa Vista
+	B. Teresina
+	C. Rio de Janeiro
+	D. Porto Velho
+
+7. Qual a capital do PR?
+	A. Curitiba
+	B. Rio Branco
+	C. Belém
+	D. Teresina
+
+8. Qual a capital do AL?
+	A. Maceió
+	B. Floarianópolis
+	C. Rio de Janeiro
+	D. Teresina
+
+9. Qual a capital do PB?
+	A. João Pessoa
+	B. Cuiabá
+	C. Fortaleza
+	D. Natal
+
+10. Qual a capital do RN?
+	A. Vitória
+	B. Porto Velho
+	C. Natal
+	D. Belém
+
+11. Qual a capital do PI?
+	A. João Pessoa
+	B. Porto Alegre
+	C. Floarianópolis
+	D. Teresina
+
+12. Qual a capital do MS?
+	A. São Paulo
+	B. Belo Horizonte
+	C. Cuiabá
+	D. Macapá
+
+13. Qual a capital do TO?
+	A. Porto Velho
+	B. Rio de Janeiro
+	C. Fortaleza
+	D. Palmas
+
+14. Qual a capital do MG?
+	A. Belo Horizonte
+	B. Recife
+	C. São Paulo
+	D. Macapá
+
+15. Qual a capital do RR?
+	A. Recife
+	B. Boa Vista
+	C. Palmas
+	D. São Luís
+
+16. Qual a capital do GO?
+	A. Belém
+	B. Vitória
+	C. Manaus
+	D. Goiânia
+
+17. Qual a capital do SC?
+	A. Aracaju
+	B. Palmas
+	C. Maceió
+	D. Floarianópolis
+
+18. Qual a capital do CE?
+	A. Manaus
+	B. Boa Vista
+	C. Brasília
+	D. Fortaleza
+
+19. Qual a capital do DF?
+	A. Brasília
+	B. Porto Velho
+	C. São Paulo
+	D. Goiânia
+
+20. Qual a capital do SE?
+	A. Rio de Janeiro
+	B. Aracaju
+	C. Campo Grande
+	D. Maceió
+
+21. Qual a capital do MA?
+	A. Teresina
+	B. Belo Horizonte
+	C. São Luís
+	D. Rio de Janeiro
+
+22. Qual a capital do AP?
+	A. Cuiabá
+	B. Macapá
+	C. São Paulo
+	D. Rio Branco
+
+23. Qual a capital do RS?
+	A. São Paulo
+	B. Recife
+	C. Belém
+	D. Porto Alegre
+
+24. Qual a capital do ES?
+	A. Teresina
+	B. Rio de Janeiro
+	C. Vitória
+	D. Curitiba
+
+25. Qual a capital do MT?
+	A. Natal
+	B. Campo Grande
+	C. Porto Alegre
+	D. Teresina
+
+26. Qual a capital do PA?
+	A. Natal
+	B. São Paulo
+	C. Rio de Janeiro
+	D. Belém
+

@@ -1,0 +1,162 @@
+teste tipo 7
+nome do estudante: 
+data: 
+série: 
+
+
+1. Qual a capital do SP?
+	A. São Paulo
+	B. Teresina
+	C. Maceió
+	D. Goiânia
+
+2. Qual a capital do MG?
+	A. Belo Horizonte
+	B. Porto Alegre
+	C. João Pessoa
+	D. Boa Vista
+
+3. Qual a capital do RJ?
+	A. Manaus
+	B. Rio de Janeiro
+	C. Belém
+	D. Teresina
+
+4. Qual a capital do GO?
+	A. Natal
+	B. Goiânia
+	C. Campo Grande
+	D. Floarianópolis
+
+5. Qual a capital do SC?
+	A. Floarianópolis
+	B. Macapá
+	C. Boa Vista
+	D. Aracaju
+
+6. Qual a capital do AP?
+	A. Fortaleza
+	B. Rio Branco
+	C. Macapá
+	D. Cuiabá
+
+7. Qual a capital do MA?
+	A. Maceió
+	B. São Luís
+	C. Manaus
+	D. João Pessoa
+
+8. Qual a capital do CE?
+	A. Fortaleza
+	B. Natal
+	C. São Luís
+	D. Cuiabá
+
+9. Qual a capital do SE?
+	A. Floarianópolis
+	B. Aracaju
+	C. Porto Velho
+	D. Cuiabá
+
+10. Qual a capital do PI?
+	A. Teresina
+	B. João Pessoa
+	C. Maceió
+	D. Belém
+
+11. Qual a capital do PA?
+	A. Campo Grande
+	B. Belém
+	C. Boa Vista
+	D. Belo Horizonte
+
+12. Qual a capital do AL?
+	A. Maceió
+	B. Campo Grande
+	C. Manaus
+	D. Brasília
+
+13. Qual a capital do PR?
+	A. Brasília
+	B. Belo Horizonte
+	C. Curitiba
+	D. Rio Branco
+
+14. Qual a capital do MS?
+	A. São Luís
+	B. Cuiabá
+	C. Natal
+	D. Fortaleza
+
+15. Qual a capital do PB?
+	A. Belém
+	B. Teresina
+	C. Vitória
+	D. João Pessoa
+
+16. Qual a capital do RO?
+	A. Campo Grande
+	B. Cuiabá
+	C. Porto Velho
+	D. Belém
+
+17. Qual a capital do AC?
+	A. Rio de Janeiro
+	B. Rio Branco
+	C. Campo Grande
+	D. Boa Vista
+
+18. Qual a capital do RN?
+	A. Macapá
+	B. Natal
+	C. João Pessoa
+	D. Porto Alegre
+
+19. Qual a capital do AM?
+	A. Manaus
+	B. Vitória
+	C. Belém
+	D. Recife
+
+20. Qual a capital do RS?
+	A. Recife
+	B. Brasília
+	C. Porto Alegre
+	D. Vitória
+
+21. Qual a capital do MT?
+	A. Campo Grande
+	B. Teresina
+	C. Porto Alegre
+	D. São Luís
+
+22. Qual a capital do DF?
+	A. Brasília
+	B. Manaus
+	C. João Pessoa
+	D. Belo Horizonte
+
+23. Qual a capital do RR?
+	A. Maceió
+	B. Boa Vista
+	C. João Pessoa
+	D. Palmas
+
+24. Qual a capital do ES?
+	A. Porto Alegre
+	B. Vitória
+	C. João Pessoa
+	D. Natal
+
+25. Qual a capital do PE?
+	A. Vitória
+	B. Campo Grande
+	C. Recife
+	D. Curitiba
+
+26. Qual a capital do TO?
+	A. Teresina
+	B. Porto Velho
+	C. Palmas
+	D. Goiânia
+

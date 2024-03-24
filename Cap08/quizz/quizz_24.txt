@@ -1,0 +1,162 @@
+teste tipo 23
+nome do estudante: 
+data: 
+série: 
+
+
+1. Qual a capital do PA?
+	A. Boa Vista
+	B. Belém
+	C. Palmas
+	D. Belo Horizonte
+
+2. Qual a capital do AM?
+	A. Recife
+	B. Campo Grande
+	C. Macapá
+	D. Manaus
+
+3. Qual a capital do SE?
+	A. Aracaju
+	B. Vitória
+	C. Goiânia
+	D. Fortaleza
+
+4. Qual a capital do MT?
+	A. Aracaju
+	B. Cuiabá
+	C. Campo Grande
+	D. Manaus
+
+5. Qual a capital do TO?
+	A. Palmas
+	B. Goiânia
+	C. Porto Alegre
+	D. Floarianópolis
+
+6. Qual a capital do SP?
+	A. Cuiabá
+	B. Aracaju
+	C. Rio de Janeiro
+	D. São Paulo
+
+7. Qual a capital do AC?
+	A. Rio Branco
+	B. Goiânia
+	C. São Luís
+	D. Curitiba
+
+8. Qual a capital do MG?
+	A. Aracaju
+	B. Macapá
+	C. Belo Horizonte
+	D. Belém
+
+9. Qual a capital do RO?
+	A. Manaus
+	B. Porto Velho
+	C. Belém
+	D. Natal
+
+10. Qual a capital do MA?
+	A. Goiânia
+	B. São Paulo
+	C. São Luís
+	D. Brasília
+
+11. Qual a capital do RJ?
+	A. Rio de Janeiro
+	B. Palmas
+	C. Maceió
+	D. Belém
+
+12. Qual a capital do AP?
+	A. Brasília
+	B. Curitiba
+	C. Macapá
+	D. Porto Alegre
+
+13. Qual a capital do RS?
+	A. Fortaleza
+	B. Porto Alegre
+	C. Boa Vista
+	D. Rio Branco
+
+14. Qual a capital do PI?
+	A. São Luís
+	B. Goiânia
+	C. Palmas
+	D. Teresina
+
+15. Qual a capital do RN?
+	A. São Luís
+	B. Palmas
+	C. Natal
+	D. Aracaju
+
+16. Qual a capital do SC?
+	A. Fortaleza
+	B. Floarianópolis
+	C. Manaus
+	D. Porto Alegre
+
+17. Qual a capital do CE?
+	A. São Luís
+	B. Belém
+	C. Teresina
+	D. Fortaleza
+
+18. Qual a capital do DF?
+	A. João Pessoa
+	B. Brasília
+	C. Floarianópolis
+	D. Campo Grande
+
+19. Qual a capital do PB?
+	A. Campo Grande
+	B. Macapá
+	C. João Pessoa
+	D. Porto Alegre
+
+20. Qual a capital do MS?
+	A. Curitiba
+	B. Cuiabá
+	C. Natal
+	D. Manaus
+
+21. Qual a capital do PR?
+	A. Teresina
+	B. Curitiba
+	C. Fortaleza
+	D. Macapá
+
+22. Qual a capital do RR?
+	A. João Pessoa
+	B. Porto Alegre
+	C. Fortaleza
+	D. Boa Vista
+
+23. Qual a capital do AL?
+	A. Belém
+	B. Maceió
+	C. Belo Horizonte
+	D. Aracaju
+
+24. Qual a capital do ES?
+	A. Curitiba
+	B. Porto Alegre
+	C. Vitória
+	D. Boa Vista
+
+25. Qual a capital do PE?
+	A. Recife
+	B. Floarianópolis
+	C. Vitória
+	D. Belém
+
+26. Qual a capital do GO?
+	A. Campo Grande
+	B. Goiânia
+	C. Rio de Janeiro
+	D. Aracaju
+

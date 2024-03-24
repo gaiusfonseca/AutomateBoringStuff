@@ -1,0 +1,162 @@
+teste tipo 16
+nome do estudante: 
+data: 
+série: 
+
+
+1. Qual a capital do RO?
+	A. Goiânia
+	B. Fortaleza
+	C. Porto Velho
+	D. Natal
+
+2. Qual a capital do AC?
+	A. Natal
+	B. Porto Alegre
+	C. Rio Branco
+	D. Goiânia
+
+3. Qual a capital do MG?
+	A. Recife
+	B. Belo Horizonte
+	C. Goiânia
+	D. Aracaju
+
+4. Qual a capital do PA?
+	A. Manaus
+	B. Belo Horizonte
+	C. São Paulo
+	D. Belém
+
+5. Qual a capital do CE?
+	A. Goiânia
+	B. São Luís
+	C. Vitória
+	D. Fortaleza
+
+6. Qual a capital do PE?
+	A. Fortaleza
+	B. Boa Vista
+	C. Brasília
+	D. Recife
+
+7. Qual a capital do RN?
+	A. Aracaju
+	B. Curitiba
+	C. Natal
+	D. Porto Alegre
+
+8. Qual a capital do RJ?
+	A. Fortaleza
+	B. Rio de Janeiro
+	C. Teresina
+	D. João Pessoa
+
+9. Qual a capital do SP?
+	A. Rio de Janeiro
+	B. São Paulo
+	C. Rio Branco
+	D. Palmas
+
+10. Qual a capital do MS?
+	A. Maceió
+	B. Cuiabá
+	C. Rio Branco
+	D. Curitiba
+
+11. Qual a capital do MT?
+	A. Campo Grande
+	B. Rio de Janeiro
+	C. Belém
+	D. Teresina
+
+12. Qual a capital do AL?
+	A. Recife
+	B. Boa Vista
+	C. Manaus
+	D. Maceió
+
+13. Qual a capital do TO?
+	A. João Pessoa
+	B. Boa Vista
+	C. Palmas
+	D. Natal
+
+14. Qual a capital do ES?
+	A. Teresina
+	B. Goiânia
+	C. Porto Alegre
+	D. Vitória
+
+15. Qual a capital do RR?
+	A. Teresina
+	B. Curitiba
+	C. Aracaju
+	D. Boa Vista
+
+16. Qual a capital do SC?
+	A. Teresina
+	B. Floarianópolis
+	C. Vitória
+	D. São Luís
+
+17. Qual a capital do GO?
+	A. Goiânia
+	B. Recife
+	C. Curitiba
+	D. Porto Velho
+
+18. Qual a capital do RS?
+	A. Belo Horizonte
+	B. Floarianópolis
+	C. Natal
+	D. Porto Alegre
+
+19. Qual a capital do AM?
+	A. Maceió
+	B. Brasília
+	C. Goiânia
+	D. Manaus
+
+20. Qual a capital do SE?
+	A. Rio Branco
+	B. Belo Horizonte
+	C. Aracaju
+	D. Recife
+
+21. Qual a capital do MA?
+	A. São Luís
+	B. Rio Branco
+	C. Recife
+	D. Macapá
+
+22. Qual a capital do PB?
+	A. Fortaleza
+	B. Maceió
+	C. São Luís
+	D. João Pessoa
+
+23. Qual a capital do PR?
+	A. Belém
+	B. São Luís
+	C. Curitiba
+	D. Rio Branco
+
+24. Qual a capital do AP?
+	A. Macapá
+	B. São Paulo
+	C. Rio de Janeiro
+	D. Aracaju
+
+25. Qual a capital do DF?
+	A. Goiânia
+	B. São Luís
+	C. Porto Velho
+	D. Brasília
+
+26. Qual a capital do PI?
+	A. Recife
+	B. Teresina
+	C. Boa Vista
+	D. Palmas
+

@@ -1,0 +1,162 @@
+teste tipo 24
+nome do estudante: 
+data: 
+série: 
+
+
+1. Qual a capital do RO?
+	A. Maceió
+	B. Porto Velho
+	C. Fortaleza
+	D. Teresina
+
+2. Qual a capital do AC?
+	A. Rio Branco
+	B. João Pessoa
+	C. Aracaju
+	D. Campo Grande
+
+3. Qual a capital do RR?
+	A. Boa Vista
+	B. Natal
+	C. Fortaleza
+	D. Aracaju
+
+4. Qual a capital do RS?
+	A. Porto Alegre
+	B. Brasília
+	C. Recife
+	D. Curitiba
+
+5. Qual a capital do SP?
+	A. Belo Horizonte
+	B. Recife
+	C. Rio Branco
+	D. São Paulo
+
+6. Qual a capital do PB?
+	A. Boa Vista
+	B. Porto Velho
+	C. João Pessoa
+	D. Vitória
+
+7. Qual a capital do AM?
+	A. Aracaju
+	B. Palmas
+	C. Manaus
+	D. Natal
+
+8. Qual a capital do GO?
+	A. Recife
+	B. Goiânia
+	C. Macapá
+	D. Maceió
+
+9. Qual a capital do MA?
+	A. Cuiabá
+	B. Belém
+	C. Natal
+	D. São Luís
+
+10. Qual a capital do AL?
+	A. Maceió
+	B. Goiânia
+	C. Boa Vista
+	D. Recife
+
+11. Qual a capital do RN?
+	A. Natal
+	B. Brasília
+	C. Vitória
+	D. Boa Vista
+
+12. Qual a capital do DF?
+	A. Goiânia
+	B. São Luís
+	C. Brasília
+	D. Macapá
+
+13. Qual a capital do ES?
+	A. Curitiba
+	B. Vitória
+	C. Maceió
+	D. Belo Horizonte
+
+14. Qual a capital do SE?
+	A. Aracaju
+	B. Teresina
+	C. Floarianópolis
+	D. Rio Branco
+
+15. Qual a capital do MT?
+	A. Brasília
+	B. Cuiabá
+	C. Campo Grande
+	D. Belém
+
+16. Qual a capital do PE?
+	A. Palmas
+	B. Cuiabá
+	C. Natal
+	D. Recife
+
+17. Qual a capital do TO?
+	A. Palmas
+	B. São Paulo
+	C. Rio de Janeiro
+	D. Aracaju
+
+18. Qual a capital do RJ?
+	A. Belo Horizonte
+	B. Fortaleza
+	C. Brasília
+	D. Rio de Janeiro
+
+19. Qual a capital do PR?
+	A. Curitiba
+	B. Cuiabá
+	C. São Paulo
+	D. Campo Grande
+
+20. Qual a capital do CE?
+	A. Fortaleza
+	B. Natal
+	C. Curitiba
+	D. São Luís
+
+21. Qual a capital do PA?
+	A. Belém
+	B. Recife
+	C. João Pessoa
+	D. São Luís
+
+22. Qual a capital do MS?
+	A. Aracaju
+	B. Goiânia
+	C. Brasília
+	D. Cuiabá
+
+23. Qual a capital do MG?
+	A. Belo Horizonte
+	B. Campo Grande
+	C. Porto Velho
+	D. Goiânia
+
+24. Qual a capital do AP?
+	A. João Pessoa
+	B. Belo Horizonte
+	C. Rio Branco
+	D. Macapá
+
+25. Qual a capital do PI?
+	A. Teresina
+	B. Goiânia
+	C. São Luís
+	D. Vitória
+
+26. Qual a capital do SC?
+	A. Teresina
+	B. Manaus
+	C. Porto Velho
+	D. Floarianópolis
+

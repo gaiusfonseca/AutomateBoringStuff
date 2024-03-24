@@ -1,0 +1,162 @@
+teste tipo 19
+nome do estudante: 
+data: 
+série: 
+
+
+1. Qual a capital do SE?
+	A. Porto Velho
+	B. Manaus
+	C. São Luís
+	D. Aracaju
+
+2. Qual a capital do RO?
+	A. Porto Velho
+	B. Belo Horizonte
+	C. Recife
+	D. Rio de Janeiro
+
+3. Qual a capital do SC?
+	A. Curitiba
+	B. Manaus
+	C. Porto Velho
+	D. Floarianópolis
+
+4. Qual a capital do GO?
+	A. Manaus
+	B. Cuiabá
+	C. Goiânia
+	D. Floarianópolis
+
+5. Qual a capital do CE?
+	A. Floarianópolis
+	B. Fortaleza
+	C. Teresina
+	D. Curitiba
+
+6. Qual a capital do RN?
+	A. Teresina
+	B. Recife
+	C. Belém
+	D. Natal
+
+7. Qual a capital do DF?
+	A. Rio Branco
+	B. Palmas
+	C. Brasília
+	D. Porto Alegre
+
+8. Qual a capital do TO?
+	A. Goiânia
+	B. Palmas
+	C. João Pessoa
+	D. Vitória
+
+9. Qual a capital do PB?
+	A. Teresina
+	B. João Pessoa
+	C. Macapá
+	D. Curitiba
+
+10. Qual a capital do AP?
+	A. Macapá
+	B. Manaus
+	C. Palmas
+	D. Campo Grande
+
+11. Qual a capital do RR?
+	A. Brasília
+	B. Floarianópolis
+	C. Boa Vista
+	D. Macapá
+
+12. Qual a capital do PI?
+	A. Belém
+	B. Manaus
+	C. Boa Vista
+	D. Teresina
+
+13. Qual a capital do MT?
+	A. Aracaju
+	B. Maceió
+	C. Belo Horizonte
+	D. Campo Grande
+
+14. Qual a capital do MG?
+	A. Belo Horizonte
+	B. Fortaleza
+	C. Rio de Janeiro
+	D. Brasília
+
+15. Qual a capital do RJ?
+	A. Vitória
+	B. Porto Alegre
+	C. Rio de Janeiro
+	D. Fortaleza
+
+16. Qual a capital do PR?
+	A. Maceió
+	B. Belém
+	C. Porto Velho
+	D. Curitiba
+
+17. Qual a capital do AL?
+	A. Brasília
+	B. Natal
+	C. Maceió
+	D. Teresina
+
+18. Qual a capital do PE?
+	A. Recife
+	B. Palmas
+	C. Rio de Janeiro
+	D. Porto Alegre
+
+19. Qual a capital do AM?
+	A. Maceió
+	B. Rio de Janeiro
+	C. Manaus
+	D. Belo Horizonte
+
+20. Qual a capital do AC?
+	A. Rio de Janeiro
+	B. Campo Grande
+	C. Rio Branco
+	D. Natal
+
+21. Qual a capital do ES?
+	A. Brasília
+	B. Floarianópolis
+	C. Vitória
+	D. Curitiba
+
+22. Qual a capital do RS?
+	A. João Pessoa
+	B. Manaus
+	C. Fortaleza
+	D. Porto Alegre
+
+23. Qual a capital do PA?
+	A. Manaus
+	B. Maceió
+	C. Natal
+	D. Belém
+
+24. Qual a capital do MA?
+	A. São Luís
+	B. Vitória
+	C. Porto Velho
+	D. Belo Horizonte
+
+25. Qual a capital do MS?
+	A. Goiânia
+	B. Porto Velho
+	C. Cuiabá
+	D. Campo Grande
+
+26. Qual a capital do SP?
+	A. Porto Velho
+	B. Rio de Janeiro
+	C. São Paulo
+	D. Belo Horizonte
+

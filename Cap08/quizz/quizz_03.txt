@@ -1,0 +1,162 @@
+teste tipo 2
+nome do estudante: 
+data: 
+série: 
+
+
+1. Qual a capital do TO?
+	A. Recife
+	B. Palmas
+	C. Fortaleza
+	D. Belém
+
+2. Qual a capital do DF?
+	A. Brasília
+	B. São Luís
+	C. Rio de Janeiro
+	D. Porto Velho
+
+3. Qual a capital do RN?
+	A. Rio Branco
+	B. Boa Vista
+	C. Natal
+	D. Macapá
+
+4. Qual a capital do MA?
+	A. Fortaleza
+	B. São Luís
+	C. Recife
+	D. Floarianópolis
+
+5. Qual a capital do ES?
+	A. Vitória
+	B. Boa Vista
+	C. Maceió
+	D. Teresina
+
+6. Qual a capital do RR?
+	A. Boa Vista
+	B. Porto Velho
+	C. Macapá
+	D. São Paulo
+
+7. Qual a capital do MT?
+	A. Vitória
+	B. Natal
+	C. Campo Grande
+	D. Palmas
+
+8. Qual a capital do GO?
+	A. Goiânia
+	B. Manaus
+	C. Porto Alegre
+	D. Palmas
+
+9. Qual a capital do PE?
+	A. Recife
+	B. Floarianópolis
+	C. Rio Branco
+	D. Maceió
+
+10. Qual a capital do SC?
+	A. Aracaju
+	B. Macapá
+	C. Porto Alegre
+	D. Floarianópolis
+
+11. Qual a capital do SP?
+	A. Curitiba
+	B. Boa Vista
+	C. São Paulo
+	D. Fortaleza
+
+12. Qual a capital do RJ?
+	A. Campo Grande
+	B. Macapá
+	C. Rio de Janeiro
+	D. Curitiba
+
+13. Qual a capital do PB?
+	A. Maceió
+	B. Goiânia
+	C. João Pessoa
+	D. Porto Alegre
+
+14. Qual a capital do RO?
+	A. Fortaleza
+	B. Rio de Janeiro
+	C. Porto Velho
+	D. Palmas
+
+15. Qual a capital do MG?
+	A. Belo Horizonte
+	B. Vitória
+	C. Natal
+	D. Belém
+
+16. Qual a capital do SE?
+	A. Macapá
+	B. Aracaju
+	C. João Pessoa
+	D. São Luís
+
+17. Qual a capital do PI?
+	A. Maceió
+	B. Teresina
+	C. Belém
+	D. Belo Horizonte
+
+18. Qual a capital do PA?
+	A. Belém
+	B. Goiânia
+	C. Brasília
+	D. Porto Velho
+
+19. Qual a capital do CE?
+	A. Fortaleza
+	B. Rio de Janeiro
+	C. Teresina
+	D. São Luís
+
+20. Qual a capital do RS?
+	A. Porto Alegre
+	B. Floarianópolis
+	C. Fortaleza
+	D. Maceió
+
+21. Qual a capital do AL?
+	A. Rio Branco
+	B. Maceió
+	C. Brasília
+	D. Floarianópolis
+
+22. Qual a capital do AP?
+	A. Porto Alegre
+	B. Rio Branco
+	C. São Luís
+	D. Macapá
+
+23. Qual a capital do MS?
+	A. Teresina
+	B. Curitiba
+	C. Campo Grande
+	D. Cuiabá
+
+24. Qual a capital do AC?
+	A. São Luís
+	B. Curitiba
+	C. Belém
+	D. Rio Branco
+
+25. Qual a capital do PR?
+	A. Belo Horizonte
+	B. Curitiba
+	C. Brasília
+	D. Palmas
+
+26. Qual a capital do AM?
+	A. Manaus
+	B. Belém
+	C. Teresina
+	D. Goiânia
+

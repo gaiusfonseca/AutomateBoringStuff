@@ -1,0 +1,162 @@
+teste tipo 5
+nome do estudante: 
+data: 
+série: 
+
+
+1. Qual a capital do PR?
+	A. Curitiba
+	B. João Pessoa
+	C. Recife
+	D. São Luís
+
+2. Qual a capital do AP?
+	A. Aracaju
+	B. Floarianópolis
+	C. Recife
+	D. Macapá
+
+3. Qual a capital do TO?
+	A. Boa Vista
+	B. Porto Alegre
+	C. Palmas
+	D. Macapá
+
+4. Qual a capital do AL?
+	A. Vitória
+	B. Fortaleza
+	C. Campo Grande
+	D. Maceió
+
+5. Qual a capital do PI?
+	A. Belém
+	B. Floarianópolis
+	C. Teresina
+	D. Natal
+
+6. Qual a capital do DF?
+	A. Boa Vista
+	B. Brasília
+	C. Porto Velho
+	D. São Luís
+
+7. Qual a capital do SC?
+	A. Maceió
+	B. Floarianópolis
+	C. Natal
+	D. Rio de Janeiro
+
+8. Qual a capital do PE?
+	A. Recife
+	B. Campo Grande
+	C. São Luís
+	D. Rio de Janeiro
+
+9. Qual a capital do SP?
+	A. São Paulo
+	B. Brasília
+	C. Natal
+	D. Belo Horizonte
+
+10. Qual a capital do SE?
+	A. São Luís
+	B. Brasília
+	C. Porto Alegre
+	D. Aracaju
+
+11. Qual a capital do CE?
+	A. Belém
+	B. Fortaleza
+	C. Curitiba
+	D. Boa Vista
+
+12. Qual a capital do MS?
+	A. Belém
+	B. Cuiabá
+	C. Boa Vista
+	D. Manaus
+
+13. Qual a capital do RR?
+	A. Curitiba
+	B. Teresina
+	C. Cuiabá
+	D. Boa Vista
+
+14. Qual a capital do RN?
+	A. Floarianópolis
+	B. Porto Velho
+	C. Natal
+	D. Teresina
+
+15. Qual a capital do PA?
+	A. Belém
+	B. Curitiba
+	C. Fortaleza
+	D. João Pessoa
+
+16. Qual a capital do AM?
+	A. Manaus
+	B. Boa Vista
+	C. Vitória
+	D. Curitiba
+
+17. Qual a capital do AC?
+	A. Floarianópolis
+	B. Rio Branco
+	C. Curitiba
+	D. São Paulo
+
+18. Qual a capital do PB?
+	A. Teresina
+	B. Aracaju
+	C. Maceió
+	D. João Pessoa
+
+19. Qual a capital do GO?
+	A. Goiânia
+	B. Boa Vista
+	C. Palmas
+	D. Rio Branco
+
+20. Qual a capital do MT?
+	A. Fortaleza
+	B. Floarianópolis
+	C. Campo Grande
+	D. Boa Vista
+
+21. Qual a capital do MA?
+	A. São Luís
+	B. São Paulo
+	C. Maceió
+	D. Curitiba
+
+22. Qual a capital do ES?
+	A. Vitória
+	B. Fortaleza
+	C. Floarianópolis
+	D. Macapá
+
+23. Qual a capital do RJ?
+	A. Rio Branco
+	B. Rio de Janeiro
+	C. Porto Velho
+	D. Recife
+
+24. Qual a capital do MG?
+	A. Porto Velho
+	B. Maceió
+	C. Curitiba
+	D. Belo Horizonte
+
+25. Qual a capital do RO?
+	A. Aracaju
+	B. Porto Velho
+	C. Porto Alegre
+	D. Curitiba
+
+26. Qual a capital do RS?
+	A. Cuiabá
+	B. Porto Velho
+	C. Brasília
+	D. Porto Alegre
+

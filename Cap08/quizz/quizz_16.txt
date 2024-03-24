@@ -1,0 +1,162 @@
+teste tipo 15
+nome do estudante: 
+data: 
+série: 
+
+
+1. Qual a capital do PI?
+	A. Goiânia
+	B. Natal
+	C. Manaus
+	D. Teresina
+
+2. Qual a capital do RS?
+	A. Porto Alegre
+	B. Rio Branco
+	C. São Luís
+	D. Maceió
+
+3. Qual a capital do RJ?
+	A. Teresina
+	B. Cuiabá
+	C. Floarianópolis
+	D. Rio de Janeiro
+
+4. Qual a capital do SE?
+	A. Aracaju
+	B. Teresina
+	C. Manaus
+	D. Vitória
+
+5. Qual a capital do AM?
+	A. Boa Vista
+	B. Manaus
+	C. Goiânia
+	D. Campo Grande
+
+6. Qual a capital do AC?
+	A. Recife
+	B. João Pessoa
+	C. Rio Branco
+	D. Manaus
+
+7. Qual a capital do AL?
+	A. Belém
+	B. Rio Branco
+	C. Aracaju
+	D. Maceió
+
+8. Qual a capital do PA?
+	A. Belo Horizonte
+	B. Brasília
+	C. Fortaleza
+	D. Belém
+
+9. Qual a capital do RN?
+	A. Natal
+	B. Maceió
+	C. Floarianópolis
+	D. Rio Branco
+
+10. Qual a capital do SP?
+	A. Rio Branco
+	B. João Pessoa
+	C. São Paulo
+	D. Cuiabá
+
+11. Qual a capital do AP?
+	A. Floarianópolis
+	B. Aracaju
+	C. Curitiba
+	D. Macapá
+
+12. Qual a capital do PE?
+	A. Recife
+	B. Cuiabá
+	C. Rio Branco
+	D. Porto Velho
+
+13. Qual a capital do RO?
+	A. São Luís
+	B. Belo Horizonte
+	C. Porto Velho
+	D. Cuiabá
+
+14. Qual a capital do MG?
+	A. Recife
+	B. Belo Horizonte
+	C. Vitória
+	D. Brasília
+
+15. Qual a capital do MT?
+	A. Belo Horizonte
+	B. Fortaleza
+	C. Campo Grande
+	D. Porto Velho
+
+16. Qual a capital do ES?
+	A. Belém
+	B. Vitória
+	C. Fortaleza
+	D. Belo Horizonte
+
+17. Qual a capital do TO?
+	A. Porto Alegre
+	B. Palmas
+	C. Rio Branco
+	D. São Paulo
+
+18. Qual a capital do MS?
+	A. Cuiabá
+	B. Rio Branco
+	C. Manaus
+	D. Fortaleza
+
+19. Qual a capital do PR?
+	A. Palmas
+	B. Brasília
+	C. São Luís
+	D. Curitiba
+
+20. Qual a capital do DF?
+	A. Vitória
+	B. Brasília
+	C. Fortaleza
+	D. Floarianópolis
+
+21. Qual a capital do GO?
+	A. Manaus
+	B. Goiânia
+	C. Natal
+	D. São Paulo
+
+22. Qual a capital do CE?
+	A. Fortaleza
+	B. Goiânia
+	C. Porto Velho
+	D. Teresina
+
+23. Qual a capital do PB?
+	A. Aracaju
+	B. São Paulo
+	C. Cuiabá
+	D. João Pessoa
+
+24. Qual a capital do RR?
+	A. Brasília
+	B. Belo Horizonte
+	C. Natal
+	D. Boa Vista
+
+25. Qual a capital do MA?
+	A. Curitiba
+	B. São Luís
+	C. Natal
+	D. Vitória
+
+26. Qual a capital do SC?
+	A. Natal
+	B. Floarianópolis
+	C. Belém
+	D. Curitiba
+

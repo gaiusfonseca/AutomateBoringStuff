@@ -1,0 +1,162 @@
+teste tipo 17
+nome do estudante: 
+data: 
+série: 
+
+
+1. Qual a capital do PB?
+	A. Macapá
+	B. Aracaju
+	C. Rio de Janeiro
+	D. João Pessoa
+
+2. Qual a capital do SE?
+	A. Belém
+	B. Boa Vista
+	C. Aracaju
+	D. Palmas
+
+3. Qual a capital do ES?
+	A. Teresina
+	B. Vitória
+	C. Fortaleza
+	D. Rio de Janeiro
+
+4. Qual a capital do RR?
+	A. Belo Horizonte
+	B. Boa Vista
+	C. Palmas
+	D. Maceió
+
+5. Qual a capital do MG?
+	A. Natal
+	B. Belo Horizonte
+	C. Aracaju
+	D. Palmas
+
+6. Qual a capital do GO?
+	A. Goiânia
+	B. Porto Velho
+	C. Recife
+	D. Floarianópolis
+
+7. Qual a capital do AL?
+	A. João Pessoa
+	B. Floarianópolis
+	C. Maceió
+	D. Recife
+
+8. Qual a capital do RJ?
+	A. Rio de Janeiro
+	B. Goiânia
+	C. Curitiba
+	D. Vitória
+
+9. Qual a capital do PA?
+	A. Vitória
+	B. Boa Vista
+	C. Belém
+	D. Porto Velho
+
+10. Qual a capital do RO?
+	A. Porto Velho
+	B. Campo Grande
+	C. Belo Horizonte
+	D. Vitória
+
+11. Qual a capital do CE?
+	A. Palmas
+	B. Fortaleza
+	C. Maceió
+	D. Floarianópolis
+
+12. Qual a capital do PE?
+	A. Boa Vista
+	B. Vitória
+	C. Recife
+	D. Floarianópolis
+
+13. Qual a capital do MT?
+	A. Campo Grande
+	B. Aracaju
+	C. Belém
+	D. João Pessoa
+
+14. Qual a capital do RS?
+	A. Porto Alegre
+	B. Manaus
+	C. Porto Velho
+	D. João Pessoa
+
+15. Qual a capital do PI?
+	A. Porto Alegre
+	B. Teresina
+	C. Macapá
+	D. João Pessoa
+
+16. Qual a capital do RN?
+	A. Recife
+	B. Natal
+	C. Curitiba
+	D. Fortaleza
+
+17. Qual a capital do AM?
+	A. Recife
+	B. Manaus
+	C. Porto Alegre
+	D. São Luís
+
+18. Qual a capital do PR?
+	A. Aracaju
+	B. Porto Alegre
+	C. São Luís
+	D. Curitiba
+
+19. Qual a capital do SC?
+	A. Campo Grande
+	B. Goiânia
+	C. Floarianópolis
+	D. São Paulo
+
+20. Qual a capital do DF?
+	A. Maceió
+	B. Vitória
+	C. Rio Branco
+	D. Brasília
+
+21. Qual a capital do TO?
+	A. Boa Vista
+	B. Teresina
+	C. Palmas
+	D. Natal
+
+22. Qual a capital do SP?
+	A. Belo Horizonte
+	B. São Paulo
+	C. Macapá
+	D. Natal
+
+23. Qual a capital do MS?
+	A. Cuiabá
+	B. Belém
+	C. Porto Alegre
+	D. São Luís
+
+24. Qual a capital do AP?
+	A. Curitiba
+	B. Maceió
+	C. Macapá
+	D. Brasília
+
+25. Qual a capital do AC?
+	A. Rio Branco
+	B. Teresina
+	C. Macapá
+	D. Porto Alegre
+
+26. Qual a capital do MA?
+	A. Rio de Janeiro
+	B. São Luís
+	C. Manaus
+	D. Teresina
+
