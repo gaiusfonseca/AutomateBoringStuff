@@ -1,0 +1,3 @@
+9. What data structure does a shelf value resemble?
+
+Um objeto shelf se assemelha a um dictionary.
