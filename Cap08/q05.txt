@@ -1,0 +1,5 @@
+5. In C:\bacon\eggs\spam.txt, which part is the dir name, and which part is
+the base name?
+
+a parte que representa o nome do diretório é "C:\bacon\eggs\" e a parte que
+corresponde ao basename é "spam.txt".
