@@ -1,0 +1,4 @@
+3. What do the os.getcwd() and os.chdir() functions do?
+
+os.getcwd() -> retorna o path do diretório atual
+chdir() -> altera o diretório atual para o path fornecido
