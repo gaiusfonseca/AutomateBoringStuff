@@ -1,0 +1,6 @@
+6. What are the three “mode” arguments that can be passed to the open()
+function?
+
+A função open() aceita três possíveis argumetnos para o parâmetro de 
+modo, quais serjam 'r' (read, padrão), 'w' (write, sobrescreve o 
+arquivo) e 'a' (append, adiciona conteúdo ao fim do arquivo).
