@@ -1,0 +1,4 @@
+2. What does an absolute path start with?
+
+Depende do Sistema Operacional. Em sistemas Unix, um caminho absoluto sempre começará com '/'.
+No Windows, um caminho absoluto começará com uma letra seguida de dois pontos e contra barra. ex: C:\
