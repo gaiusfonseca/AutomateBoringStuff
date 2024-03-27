@@ -1,0 +1,4 @@
+7. What happens if an existing file is opened in write mode?
+
+Ele faz o truncamento do arquivo, fazendo com que todo o 
+atual conteúdo seja apagado.
