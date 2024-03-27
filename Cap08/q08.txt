@@ -1,0 +1,6 @@
+8. What is the difference between the read() and readlines() methods?
+
+O método read() lê todo o conteúdo do arquivo, trazendo tudo em uma
+única String. Por outro lado, o método readlines() retorna uma lista
+de strings, o caractere de nova linha é utilizado como elemento de 
+tokenização.
