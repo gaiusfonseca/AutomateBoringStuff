@@ -1,0 +1,4 @@
+4. What are the . and .. folders?
+
+São pastas especiais que representam respectivamente o diretório atual e o diretório pai.
+Normalmente são utilizados para especificar caminhos relativos.
