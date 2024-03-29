@@ -8,7 +8,7 @@
 
 import shelve, pyperclip, sys
 
-mcbShelf = shelve.open('mcb')
+mcbShelf = shelve.open('emcb')
 arguments = sys.argv
 usage = '''
 # uso:  python emcb.pyw save <keyword> - salva o conteúdo da clipboard como a palavra-chave
