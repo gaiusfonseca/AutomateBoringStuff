@@ -1,0 +1,7 @@
+4. ZipFile objects have a close() method just like File objects’ close()
+method. What ZipFile method is equivalent to File objects’ open()
+method?
+
+O método equivalente a open() para os arquivos zip seria o 
+zipfile.ZipFile() onde se pode fornecer um path para o arquivo zip e um
+parâmetro que indica o modo de leitura.
