@@ -1,0 +1,4 @@
+1. What is the difference between shutil.copy() and shutil.copytree()?
+
+shutil.copy() copia apenas um arquivo enquanto o shutil.copytree()
+copia todo o conteudo de uma pasta.
