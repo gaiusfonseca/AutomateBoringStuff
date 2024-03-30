@@ -1,0 +1,8 @@
+3. What is the difference between the delete functions in the send2trash
+and shutil modules?
+
+shutil.unlink() executa um exclusão permanente e irreversível do 
+arquivo, que implica em liberação do espaço em disco. Por outro lado, 
+o send2trash.send2trash() envia o arquivo para a lixeira, permitindo
+a recuperação de um arquivo que tenha sido excluído acidentalmente, mas
+em contrapartida, ele náo libera espaço em disco.
