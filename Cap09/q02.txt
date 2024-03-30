@@ -1,0 +1,4 @@
+2. What function is used to rename files?
+
+é possível renoamear arquivos com a função 
+shutil.move('nomeAntigo', 'nomeNovo')
